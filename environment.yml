@@ -5,8 +5,8 @@ dependencies:
   - python
   - numpy
   - pip
-  - re
   - pip:
     - pandas
+    - re
     - matplotlib
 
