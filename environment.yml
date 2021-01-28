@@ -6,7 +6,6 @@ dependencies:
   - numpy
   - pip
   - pip:
-    - urllib
     - csv
     - pandas
     - matplotlib
