@@ -6,6 +6,5 @@ dependencies:
   - numpy
   - pip
   - pip:
-    - csv
     - pandas
     - matplotlib
