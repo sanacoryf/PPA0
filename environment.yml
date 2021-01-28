@@ -3,10 +3,10 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - csv
   - numpy
   - pip
   - pip:
     - urllib
+    - csv
     - pandas
     - matplotlib
